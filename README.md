@@ -2,7 +2,7 @@
 
 Mostrar alert no flutter
 
-Para mostrar o alert utilizado o flutter é só fazer a seguinte chamada:
+Para mostrar o alert no flutter é só fazer a seguinte chamada:
 
 showMessage("texto", "conteudo");
 
